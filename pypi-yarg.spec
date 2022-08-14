@@ -4,7 +4,7 @@
 #
 Name     : pypi-yarg
 Version  : 0.1.9
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/d4/c8/cc640404a0981e6c14e2044fc64e43b4c1ddf69e7dddc8f2a02638ba5ae8/yarg-0.1.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d4/c8/cc640404a0981e6c14e2044fc64e43b4c1ddf69e7dddc8f2a02638ba5ae8/yarg-0.1.9.tar.gz
 Summary  : A semi hard Cornish cheese, also queries PyPI (PyPI client)
